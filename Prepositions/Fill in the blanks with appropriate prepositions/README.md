@@ -63,5 +63,5 @@
 37) The public are cautioned **against** pickpockets.
 38) They drove **from** Mumbai **to** Pune.
 39) The college life is full **of** experiences.
-40) The box was wrapped **in** ribbons.
+40) The box was wrapped **with** ribbons.
  
